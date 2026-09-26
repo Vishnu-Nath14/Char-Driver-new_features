@@ -10,7 +10,7 @@
 #define DEV_MEM_SIZE 512
 
 MODULE_LICENSE("GPL");
-MODULE_AUTHOR("Your Name");
+MODULE_AUTHOR("Vishnu");
 MODULE_DESCRIPTION("Pseudo Character Device Driver Example");
 
 char device_buffer[DEV_MEM_SIZE];
